@@ -1,0 +1,8 @@
+.bgImage{
+    position: relative;
+    object-fit: cover;
+}
+
+.main-text{
+    position: relative;
+}
